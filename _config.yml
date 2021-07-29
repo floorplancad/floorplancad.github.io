@@ -29,7 +29,9 @@ plugins:
   - jekyll-remote-theme
 
 # Custom variables
-show_downloads: true
+dataset:
+  zip_url: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  tar_url: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
