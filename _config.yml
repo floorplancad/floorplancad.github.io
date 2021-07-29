@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: FloorPlanCAD Dataset
-email: lingjie.zhu.me@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the site hosting the FloorPlanCAD dataset.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://floorplancad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "floorplancad.github.io"
-github_username:  aboudev
 
 # Build settings
 markdown: kramdown
@@ -32,6 +30,9 @@ plugins:
 dataset:
   zip_url: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
   tar_url: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+maintainer:
+  name: "Lingjie Zhu"
+  email: "lingjie.zhu.me@gmail.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
