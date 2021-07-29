@@ -1,6 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+# Introduction
+This is the site hosting the FloorPlanCAD dataset.
+
+## Samples
+
+![Apartment]()
+![Supermall]()
+![Supermall]()
+
+Detailed classes can be found [here](./classes-page.html)
+
+
+# Methods
+
+## PanCADNet
+
+
+# Contributors
