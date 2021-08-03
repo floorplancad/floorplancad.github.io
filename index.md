@@ -29,8 +29,8 @@ railings (orange) and walls (dark red) are faithfully encoded in the CAD drawing
 CAD drawings in the dataset are in the [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) format.
 An illustration of our FloorPlanCAD dataset.
 
-<img src="./images/dataset00.svg" width="800" />
-<img src="./images/dataset01.svg" width="800" />
+<img src="./images/dataset00.svg" width="380" />
+<img src="./images/dataset01.svg" width="440" />
 
 Detailed properties and statistics can be found [here](./classes-page.html)
 
