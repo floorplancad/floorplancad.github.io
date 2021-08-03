@@ -37,6 +37,9 @@ A snapshot of our FloorPlanCAD dataset. (a) Texts are removed to protect privacy
 <img src="./images/dataset00.svg" width="800" />
 <img src="./images/dataset01.svg" width="800" />
 
+Number of finely annotated instances (y-axis) for 28 thing classes and their associated categories (x-axis)
+<img src="./images/catalogue.svg" width="800" />
+
 ## Samples
 
 Detailed classes can be found [here](./classes-page.html)
