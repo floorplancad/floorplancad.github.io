@@ -12,13 +12,12 @@ Equipped by such annotations, we introduce the task of ***panoptic symbol spotti
 Our contributions are three-fold: 1) to the best of our knowledge, the presented CAD drawing dataset is the first of its kind; 2) the panoptic symbol spotting task considers the spotting of both thing instances and stuff semantic as one recognition problem; and 3) we presented a baseline solution to the panoptic symbol spotting task based on a novel CNN-GCN method, which achieved SOTA performance on semantic symbol spotting. 
 We believe that these contributions will boost research in related areas.
 
+![Teaser](./images/teaser.svg)
+
 ## Samples
 
-![Apartment]()
 ![Supermall]()
 ![Supermall]()
-
-<img src="./images/teaser.svg">
 
 Detailed classes can be found [here](./classes-page.html)
 
