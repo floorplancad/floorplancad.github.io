@@ -17,9 +17,11 @@ We believe that these contributions will boost research in related areas.
 The rich semantic, accurate location and detailed 3D shape (right top) of windows (light blue),
 blind windows (blue), railings (orange) and walls (dark red) are faithfully encoded in the CAD drawings of a floor plan (left) and its south facade (right bottom).
 
-![](./images/teaser01.svg)
-![](./images/teaser04.svg)
-![](./images/teaser03.svg)
+<img src="./images/teaser01.svg" width="200" />
+<p float="middle">
+  <img src="./images/teaser04.svg" width="200" />
+  <img src="./images/teaser03.svg" width="200" />
+</p>
 
 Various sink symbols from our FloorPlanCAD dataset.
 The style and appearance of a symbol depend on the producer of the drawing.
