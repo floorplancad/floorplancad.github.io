@@ -38,7 +38,14 @@ A snapshot of our FloorPlanCAD dataset. (a) Texts are removed to protect privacy
 <img src="./images/dataset01.svg" width="800" />
 
 Number of finely annotated instances (y-axis) for 28 thing classes and their associated categories (x-axis)
+
 <img src="./images/catalogue.svg" width="800" />
+
+Properties and statistics of existing datasets. BRIDGE [13] still is not publically available by the time this paper is
+submitted. Note that our FloorPlanCAD is the only one that gives panoptic annotation while retaining the characteristics of
+vector graphics throughout the process.
+
+![](./images/table1.png)
 
 {% raw %}
   $$a^2 + b^2 = c^2$$
