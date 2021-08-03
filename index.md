@@ -2,6 +2,12 @@
 layout: index
 ---
 
+# News
+
+> **(2021, August 13th)** *Initial release including 10,000 CAD drawings.*
+
+---
+
 # Introduction
 
 Access to large and diverse [CAD](https://en.wikipedia.org/wiki/Computer-aided_design) drawings is critical for developing vector graphics and symbol related algorithms.
@@ -15,6 +21,8 @@ railings (orange) and walls (dark red) are faithfully encoded in the CAD drawing
 <img src="./images/teaser01.svg" width="270" />
 <img src="./images/teaser04.svg" width="270" />
 <img src="./images/teaser03.svg" width="270" />
+
+---
 
 # Dataset
 
@@ -38,20 +46,41 @@ We are grateful to our partners for providing the CAD drawings and support.
 
 Please cite our paper if you use the FloorPlanCAD dataset.
 
-> @InProceedings{Fan_2021_ICCV,
->
->   author = {Fan, Zhiwen and Zhu, Lingjie and Li, Honghua and Zhu, Siyu and Tan, Ping},
->
->   title = {FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol},
->
->   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
->
->   month = {October},
->
->   year = {2021}
->
-> }
+```bibtex
+@InProceedings{Fan_2021_ICCV,
+  author = {Fan, Zhiwen and Zhu, Lingjie and Li, Honghua and Zhu, Siyu and Tan, Ping},
+  title = {FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  month = {October},
+  year = {2021}
+}
+```
+
+## License
+
+The copyright of the CAD drawings is owned by their creators.
+
+## Download
+
+By downloading the dataset you agree to the following terms:
+
+> The authors give no warranties regarding the dataset
+
+### Versions
+
+The dataset is versioned to accommodate for future updates of the data chunks and tasks.
+
+### File Formats
+
+Each drawing in the dataset consists of the following file formats:
+- svg file with annotation fields,
+- png image of the drawing,
+- json file of coco format
+
+---
 
 # Benchmarks
+
+Based on the CAD drawings from the FloorPlanCAD dataset, we provide the following benchmarks for the task of panoptic symbol spotting.
 
 ## Panoptic symbol spotting task
