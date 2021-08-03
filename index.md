@@ -84,3 +84,7 @@ Each drawing in the dataset consists of the following file formats:
 Based on the CAD drawings from the FloorPlanCAD dataset, we provide the following benchmarks for the task of panoptic symbol spotting.
 
 ## Panoptic symbol spotting task
+
+We provide a GCN-based base-line and list the statistical results on the proposed dataset.
+For more details, please refer to the [source code page](https://github.com/aliyun).
+![](./images/pancadnet.png)
