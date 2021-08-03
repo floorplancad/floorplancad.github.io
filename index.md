@@ -39,11 +39,17 @@ We are grateful to our partners for providing the CAD drawings and support.
 Please cite our paper if you use the FloorPlanCAD dataset.
 
 > @InProceedings{Fan_2021_ICCV,
+>
 >   author = {Fan, Zhiwen and Zhu, Lingjie and Li, Honghua and Zhu, Siyu and Tan, Ping},
+>
 >   title = {FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol},
+>
 >   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+>
 >   month = {October},
+>
 >   year = {2021}
+>
 > }
 
 # Benchmarks
