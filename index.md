@@ -18,6 +18,8 @@ We believe that these contributions will boost research in related areas.
 ![Supermall]()
 ![Supermall]()
 
+<img src="./images/teaser.svg">
+
 Detailed classes can be found [here](./classes-page.html)
 
 
