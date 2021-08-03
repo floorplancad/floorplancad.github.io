@@ -40,6 +40,10 @@ A snapshot of our FloorPlanCAD dataset. (a) Texts are removed to protect privacy
 Number of finely annotated instances (y-axis) for 28 thing classes and their associated categories (x-axis)
 <img src="./images/catalogue.svg" width="800" />
 
+{% raw %}
+  $$a^2 + b^2 = c^2$$
+{% endraw %}
+
 ## Samples
 
 Detailed classes can be found [here](./classes-page.html)
