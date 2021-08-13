@@ -28,8 +28,8 @@ plugins:
 
 # Custom variables
 dataset:
-  zip_url: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-  tar_url: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  train_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/train.tar.gz"
+  test_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/test.tar.gz"
 maintainer:
   name: "Lingjie Zhu"
   email: "lingjie.zhu.me@gmail.com"
