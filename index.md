@@ -4,7 +4,7 @@ layout: index
 
 # News
 
-> **(2021, August 13th)** *Initial release including 10,000 CAD drawings.*
+> **(2021, August 13th)** *Initial release including 11,602 CAD drawings.*
 
 ---
 

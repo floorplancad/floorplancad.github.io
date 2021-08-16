@@ -28,8 +28,9 @@ plugins:
 
 # Custom variables
 dataset:
-  train_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/train.tar.gz"
-  test_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/test.tar.gz"
+  train_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/train.tar"
+  val_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/val.tar"
+  test_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/test.tar"
 maintainer:
   name: "Lingjie Zhu"
   email: "lingjie.zhu.me@gmail.com"
