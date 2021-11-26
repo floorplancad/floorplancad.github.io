@@ -5,7 +5,7 @@ layout: index
 # News
 
 > **(2021, November 26th)** *Updated release including 15,663 CAD drawings.*
-
+>
 > **(2021, August 13th)** *Initial release including 11,602 CAD drawings.*
 
 ---
@@ -67,7 +67,9 @@ We do not own the copyright of the drawings.
 
 By downloading the dataset you agree to the following terms:
 
-> The authors give no warranties regarding the dataset. The users of the dataset accept full responsibility for the use of the dataset, including but not limited to the use of any copies of copyrighted dataset that they may create from the dataset.
+> The authors give no warranties regarding the dataset.
+>
+> The users of the dataset accept full responsibility for the use of the dataset, including but not limited to the use of any copies of copyrighted dataset that they may create from the dataset.
 
 ### Versions
 
