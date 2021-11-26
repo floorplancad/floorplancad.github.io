@@ -4,6 +4,7 @@ layout: index
 
 # News
 
+> **(2021, November 26th)** *Updated release including 15,663 CAD drawings.*
 > **(2021, August 13th)** *Initial release including 11,602 CAD drawings.*
 
 ---
@@ -11,7 +12,7 @@ layout: index
 # Introduction
 
 Access to large and diverse [CAD](https://en.wikipedia.org/wiki/Computer-aided_design) drawings is critical for developing vector graphics and symbol related algorithms.
-Here, we present ***FloorPlanCAD***, a large-scale real-world CAD drawing dataset containing over 10,000 floor plans, ranging from residential to commercial buildings.
+Here, we present ***FloorPlanCAD***, a large-scale real-world CAD drawing dataset containing over 15,000 floor plans, ranging from residential to commercial buildings.
 With line-grained annotations, we introduce the ***panoptic symbol spotting*** task, which requires spotting both instances of countable things and semantics of the uncountable stuff.
 Other tasks will be available in the future.
 
@@ -58,13 +59,14 @@ Please cite our paper if you use the FloorPlanCAD dataset.
 
 ## License
 
-The copyright of the CAD drawings is owned by their creators.
+The annotations in this dataset along with this website belong to us and are licensed under a [Creative Commons Attribution-NonCommercial 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+We do not own the copyright of the drawings.
 
 ## Download
 
 By downloading the dataset you agree to the following terms:
 
-> The authors give no warranties regarding the dataset
+> The authors give no warranties regarding the dataset. The users of the dataset accept full responsibility for the use of the dataset, including but not limited to the use of any copies of copyrighted dataset that they may create from the dataset.
 
 ### Versions
 
@@ -75,7 +77,7 @@ The dataset is versioned to accommodate for future updates of the data chunks an
 Each drawing in the dataset consists of the following file formats:
 - svg file with annotation fields,
 - png image of the drawing,
-- json file of coco format
+- coco_vis folder of coco visualization
 
 ---
 
