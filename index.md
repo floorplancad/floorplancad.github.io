@@ -4,6 +4,8 @@ layout: index
 
 # News
 
+> **(2023, January 19th)** *This project was shutdown in early 2022, and most of the participants have left the company.*
+>
 > **(2021, November 26th)** *Updated release including 15,663 CAD drawings.*
 >
 > **(2021, August 13th)** *Initial release including 11,602 CAD drawings.*

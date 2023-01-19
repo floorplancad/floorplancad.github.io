@@ -28,9 +28,9 @@ plugins:
 
 # Custom variables
 dataset:
-  train_00_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/train-00.tar.xz"
-  train_01_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/train-01.tar.xz"
-  test_00_url: "https://floorplancad.oss-cn-hangzhou.aliyuncs.com/iccv2021/test-00.tar.xz"
+  train_00_url: "https://drive.google.com/file/d/1HcyKt6qWeXog-tRfvEjdO3O3TN91PXGL/view?usp=share_link"
+  train_01_url: "https://drive.google.com/file/d/1kSS7OB_EEu7VJzb0W8DK9_nu1EvshioV/view?usp=sharing"
+  test_00_url: "https://drive.google.com/file/d/1jxpYgxnLUbXEzMOsjaMPQFSuvmvHimiZ/view?usp=sharing"
 maintainer:
   name: "Lingjie Zhu"
   email: "lingjie.zhu.me@gmail.com"
