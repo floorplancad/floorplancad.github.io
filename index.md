@@ -4,7 +4,7 @@ layout: index
 
 # News
 
-> **(2023, January 19th)** *This project was shutdown in early 2022, and most of the participants have left the company.*
+> **(2023, January 19th)** *This project was shutdown in early 2022, and most of the participants have left the company. If you have any problem, please contact pingtan@ust.hk or pingtan@sfu.ca.*
 >
 > **(2021, November 26th)** *Updated release including 15,663 CAD drawings.*
 >
